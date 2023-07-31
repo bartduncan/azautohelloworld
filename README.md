@@ -2,6 +2,8 @@
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#blade/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbartduncan%2Fazautohelloworld%2Fmain%2FHelloWorldRunbook%2FHelloWorldRunbookArm.json)
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#blade/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbartduncan%2Fazautohelloworld%2Fmain%2FHelloWorldRunbook%2FHelloWorldRunbookArm2.json)
+
 
 ----
 
