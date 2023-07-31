@@ -30,7 +30,7 @@
           "tags": {},
           "properties": {
             "contentLink": {
-              "uri": "https://github.com/rchaganti/armseries/raw/master/MyModule.zip"
+              "uri": "https://raw.githubusercontent.com/bartduncan/azautohelloworld/main/HelloWorldRunbook/RunbookContent/AzAutoHelloWorldModule.zip"
             }
           }
         }, 
