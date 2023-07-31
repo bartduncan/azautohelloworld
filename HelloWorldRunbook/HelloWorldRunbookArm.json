@@ -2,21 +2,6 @@
   "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "sku": {
-      "type": "string",
-      "defaultValue": "pergb2018",
-      "allowedValues": [
-        "pergb2018",
-        "Free",
-        "Standalone",
-        "PerNode",
-        "Standard",
-        "Premium"
-      ],
-      "metadata": {
-        "description": "Pricing tier: perGB2018 or legacy tiers (Free, Standalone, PerNode, Standard or Premium), which are not available to all customers."
-      }
-    },
     "dataRetention": {
       "type": "int",
       "defaultValue": 30,
@@ -86,7 +71,7 @@
       "location": "[parameters('location')]",
       "properties": {
         "sku": {
-          "name": "[parameters('sku')]"
+          "name": "pergb2018"
         },
         "retentionInDays": "[parameters('dataRetention')]",
         "features": {
