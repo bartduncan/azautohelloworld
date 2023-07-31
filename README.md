@@ -54,6 +54,7 @@ The type property is set to Microsoft.Automation/automationAccounts/modules, whi
 
 Ref: 
 * https://powershellmagazine.com/2015/11/26/deploy-custom-azure-automation-integration-modules-using-arm-templates/
+* https://azure.microsoft.com/de-de/blog/authoring-integration-modules-for-azure-automation/
 * https://learn.microsoft.com/en-us/azure/templates/microsoft.automation/automationaccounts/modules?pivots=deployment-language-bicep
 * https://learn.microsoft.com/en-us/azure/templates/microsoft.automation/2022-08-08/automationaccounts/modules
 * https://learn.microsoft.com/en-us/azure/automation/quickstart-create-automation-account-template
