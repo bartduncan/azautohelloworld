@@ -51,6 +51,7 @@ You can then specify values for the automationAccountName, moduleName, and modul
 The type property is set to Microsoft.Automation/automationAccounts/modules, which specifies that the resource is a module for an Azure Automation account. The name property is set to the value of the name parameter, which specifies the name of the module. The parent property specifies that the module is a child resource of the Automation account specified by the automationAccountName parameter. The contentLink property specifies the URI of the module content, which is provided by the uri parameter.
 
 Ref: 
+* https://powershellmagazine.com/2015/11/26/deploy-custom-azure-automation-integration-modules-using-arm-templates/
 * https://learn.microsoft.com/en-us/azure/templates/microsoft.automation/automationaccounts/modules?pivots=deployment-language-bicep
 * https://learn.microsoft.com/en-us/azure/templates/microsoft.automation/2022-08-08/automationaccounts/modules
 * https://learn.microsoft.com/en-us/azure/automation/quickstart-create-automation-account-template
